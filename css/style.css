@@ -1,0 +1,9 @@
+body{
+    background-color: yellow;
+}
+#main-navigation{
+    background-color: aqua;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+    text-align: left;
+}
